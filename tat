@@ -1,0 +1,35 @@
+[33mcommit 81ba037544bf69323f9f030eb05c17d6dce95c32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 10:45:42 2018 +0200
+
+    package-lock.json deleted
+
+[33mcommit ba0249abf6987e408da20f32adf6dda01800aacf[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 10:39:22 2018 +0200
+
+    browserify added
+
+[33mcommit 658529cac95887c3fb97ffe3dadd28569e00301f[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 10:26:48 2018 +0200
+
+    concat added
+
+[33mcommit 5c548dac3e03e44ac23d5faa8cb9e952e7e8a80d[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 09:32:50 2018 +0200
+
+    Added gulp-coffee
+
+[33mcommit b22f66f4c9cbc80786dff3ab02dab141125a522f[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 09:11:05 2018 +0200
+
+    Added README.md
+
+[33mcommit 842bf2afc730f56d36e762ab68cfdfcff3f6b7f5[m
+Author: Sonja Schulze <sonschul@uos.de>
+Date:   Thu Aug 23 09:07:17 2018 +0200
+
+    First Commit
